@@ -61,4 +61,4 @@ alert("Fill please all fields")
 
 ## Посилання
 
-Демо [посилання] (https://artemilliushchenko.github.io/goit-js-hw-09/)
+Демо [посилання](https://artemilliushchenko.github.io/goit-js-hw-09/)
